@@ -160,16 +160,16 @@
     <value>Terminați ADB când ieșiți din programul de instalare?</value>
   </data>
   <data name="CloseAPPSettings.Description" xml:space="preserve">
-    <value>Exit Installer after installation is complete.</value>
+    <value/>
   </data>
   <data name="CloseAPPSettings.Header" xml:space="preserve">
-    <value>Exit Installer when APP is Ready?</value>
+    <value/>
   </data>
   <data name="ConfigsSettingsHeader.Header" xml:space="preserve">
     <value>Configurări</value>
   </data>
   <data name="ConnectDevice.Description" xml:space="preserve">
-    <value>Connect device through network.</value>
+    <value>Conectați dispozitivul în rețea.</value>
   </data>
   <data name="ConnectDevice.Header" xml:space="preserve">
     <value>Conectare dispozitiv</value>
@@ -178,7 +178,7 @@
     <value>Contactați-mă</value>
   </data>
   <data name="ContactMeTextBlock.Text" xml:space="preserve">
-    <value>Follow me on social apps for the latest developments. If you find any bugs, please report them to me by PM. I will try my best to solve it. If you have Telegram account, feel free to chat in Paving Base Group 😊!</value>
+    <value>!</value>
   </data>
   <data name="ContentSettingsHeader.Header" xml:space="preserve">
     <value>Conținut</value>
@@ -193,7 +193,7 @@
     <value>Suport</value>
   </data>
   <data name="DonateTextBlock.Text" xml:space="preserve">
-    <value>APK Installer is an open-source application which does not add any ads for profit. If you like this app, don't forget to rate it in the store. Of course, it would be great if you could donate a little. Thank you for your support.💕</value>
+    <value/>
   </data>
   <data name="EULA.Content" xml:space="preserve">
     <value>ALUF</value>
@@ -265,7 +265,7 @@
     <value>Pair and connect devices.</value>
   </data>
   <data name="PairDeviceSettings.Header" xml:space="preserve">
-    <value>Pair &amp; Connect</value>
+    <value>Asociază și conectează</value>
   </data>
   <data name="RadioThemeDark.Content" xml:space="preserve">
     <value>Întunecat</value>
